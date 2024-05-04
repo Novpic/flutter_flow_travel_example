@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyClTkr50D689eoWe1vJTkOJ7CzOCL4Keh0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>356274277653</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterFlowTravelExample</string>
+	<key>PROJECT_ID</key>
+	<string>travel-example-starter-25ctb6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travel-example-starter-25ctb6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:356274277653:ios:e6ceae5137aa7eec776d1c</string>
+</dict>
+</plist>
